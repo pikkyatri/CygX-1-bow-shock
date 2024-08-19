@@ -1,9 +1,9 @@
 # CygX-1-bow-shock
-This repository contains code for analysing the bow shock detected near the Cyg X-1 black hole X-ray binary. There are two codes, CygX-1_bow-shock_parameters.ipynb and spectral_,ipynb. 
+This repository contains code for analysing the bow shock detected near the Cyg X-1 black hole X-ray binary. It also includes code for all figures made in Atri et al. 202x. 
 
 ### Requirements
 
-To run this code, you need the following:
+To run the codes, you need the following packages for the scripts:
 
 ## CygX-1_bow-shock_parameters.ipynb
 
@@ -17,6 +17,13 @@ To run this code, you need the following:
 - **Joblib**: `0.13.2`
 
 ## Plot_contours_bowshock_Lband.ipynb
+
+- **Python**: `3.6`
+- **Astropy**: `4.0.2`
+- **Matplotlib**: `3.3.4`
+- **Aplpy**: `2.0.3`
+
+## Plot_contours_bowshock_Sband.ipynb
 
 - **Python**: `3.6`
 - **Astropy**: `4.0.2`
